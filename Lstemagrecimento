@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emagrecimento Rápido e Saudável</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Emagrecer Rápido</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Artigos</a></li>
+                <li><a href="#">Receitas</a></li>
+                <li><a href="#">Dicas</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="banner">
+            <h1>Emagreça de forma saudável e rápida</h1>
+        </section>
+        <section class="destaques">
+            <h2>Artigos em Destaque</h2>
+            <!-- Lista de artigos -->
+        </section>
+        <section class="depoimentos">
+            <h2>Depoimentos</h2>
+            <!-- Depoimentos de sucesso -->
+        </section>
+        <section class="newsletter">
+            <h2>Assine nossa Newsletter</h2>
+            <form>
+                <input type="email" placeholder="Seu email">
+                <button type="submit">Assinar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Emagrecer Rápido. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
